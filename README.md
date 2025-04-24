@@ -8,7 +8,8 @@ Me chamo Luccas Pachini, tenho 20 anos, sou Desenvolvedor Júnior e estudante de
 
 <div align="left">
   <a href="https://www.linkedin.com/in/luccas-pachini-maranhao/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
 ## 🤖 Linguagens e Tecnologias
