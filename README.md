@@ -80,24 +80,32 @@ Me chamo Luccas Pachini, tenho 20 anos, sou Desenvolvedor Júnior e estudante de
 />
 <img 
     align="left" 
-    alt="sql" 
-    title="sql"
+    alt="Sql" 
+    title="Sql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img 
     align="left" 
-    alt="mongodb" 
-    title="mongodb"
+    alt="MongoDB" 
+    title="MongoDB"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
 />
 <img 
     align="left" 
-    alt="figma" 
-    title="figma"
+    alt="Insomnia" 
+    title="Insomnia"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
