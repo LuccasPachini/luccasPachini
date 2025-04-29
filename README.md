@@ -96,11 +96,11 @@ Me chamo Luccas Pachini, tenho 20 anos, sou Desenvolvedor Júnior e estudante de
 />
 <img 
     align="left" 
-    alt="Insomnia" 
-    title="Insomnia"
+    alt="Postman" 
+    title="Postman"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
 <img 
     align="left" 
