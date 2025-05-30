@@ -52,7 +52,7 @@ Me chamo Luccas Pachini, tenho 20 anos, sou Desenvolvedor Júnior e estudante de
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"
 />
 <img 
     align="left" 
@@ -68,7 +68,7 @@ Me chamo Luccas Pachini, tenho 20 anos, sou Desenvolvedor Júnior e estudante de
     title="Tailwind CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 <img 
     align="left" 
