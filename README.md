@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Júnior`**
 
-Me chamo Luccas Pachini, tenho 20 anos, sou Desenvolvedor Júnior e estudante de Ciência da Computação na Anhembi Morumbi. Sou apaixonado por tecnologia e movido pelo desejo constante de aprender e evoluir na área. Estou sempre em busca de novos conhecimentos e desafios que me ajudem a crescer profissionalmente e contribuir de forma significativa nos projetos em que atuo.
+Me chamo Luccas Pachini, tenho 21 anos, sou Desenvolvedor Júnior e estudante de Ciência da Computação na Anhembi Morumbi. Sou apaixonado por tecnologia e movido pelo desejo constante de aprender e evoluir na área. Estou sempre em busca de novos conhecimentos e desafios que me ajudem a crescer profissionalmente e contribuir de forma significativa nos projetos em que atuo.
 
 ## 🌐 Conecte-se comigo 
 
