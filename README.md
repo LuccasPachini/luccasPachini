@@ -1,4 +1,4 @@
-<h1 align="center">🧑‍💻 Console.WriteLine("Luccas Pachini");</h1>
+<h1 align="center">console.log("Luccas Pachini");</h1>
 
 <p align="center">
   <strong>Software Developer | Backend Engineer</strong>
@@ -9,7 +9,7 @@
 ## 👨‍💻 Sobre mim
 
 <p>
-  Sou <strong>Desenvolvedor de Software</strong> e estudante de <strong>Ciência da Computação</strong> na Anhembi Morumbi, com foco em <strong>Backend, APIs, integrações e arquitetura de sistemas</strong>.
+  Sou <strong>Desenvolvedor de Software</strong>, com foco em <strong>Backend, APIs, integrações e arquitetura de sistemas</strong>.
 </p>
 
 <p>
@@ -27,7 +27,7 @@
 </p>
 
 <p>
-  No desenvolvimento, busco aplicar conceitos como <strong>Clean Architecture, SOLID, DDD, Design Patterns e boas práticas de engenharia</strong>, sempre pensando não apenas em fazer o código funcionar, mas em construir soluções que sejam simples, sustentáveis e fáceis de evoluir.
+  No desenvolvimento, busco aplicar conceitos como <strong>Clean Architecture, SOLID, DDD, Design Patterns e boas práticas de engenharia</strong>, sempre pensando não apenas em fazer o código funcionar, mas em construir soluções simples, sustentáveis e fáceis de evoluir.
 </p>
 
 <p>
@@ -53,8 +53,9 @@
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </p>
 
 ### Cloud & DevOps
@@ -69,13 +70,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-### Databases
+### Bancos de Dados
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">
 </p>
 
 ### Arquitetura & Engenharia
@@ -107,6 +109,7 @@
   <a href="https://www.linkedin.com/in/luccas-pachini-maranhao">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="https://luccas-pachini-developer.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
@@ -128,12 +131,11 @@
 
 ---
 
-## 📊 Estatísticas
+```ts
+const developer = {
+  name: "Luccas Pachini",
+  role: "Software Developer",
+  focus: ["Backend", "Node.js", "NestJS", "TypeScript"]
+};
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+console.log(`Hello, I'm ${developer.name}! 🚀`);
